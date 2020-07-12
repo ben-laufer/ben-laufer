@@ -1,6 +1,6 @@
 ![Banner](https://pbs.twimg.com/profile_banners/1419589106/1589310562/1500x500)
 
-I utilize computational and experimental methods to examine the interaction between the environment and the epigenome during neurodevelopment. My postdoctoral research has been funded by both a CIHR Postdoctoral Fellowship award and a [CIHR Banting Postdoctoral Fellowship](http://banting.fellowships-bourses.gc.ca/en/2018-2019-eng.html) award. When not working away on my research I contribute to [EpiGenie](http://epigenie.com) as the [Epigenetics Editor & Writer](https://epigenie.com/who-is-epigenie/). 
+I utilize computational and experimental methods to explore the epigenomic interface between neurodevelopment and environment. My postdoctoral research has been funded by both a CIHR Postdoctoral Fellowship award and a [CIHR Banting Postdoctoral Fellowship](http://banting.fellowships-bourses.gc.ca/en/2018-2019-eng.html) award. When not working away on my research I contribute to [EpiGenie](http://epigenie.com) as the [Epigenetics Editor & Writer](https://epigenie.com/who-is-epigenie/). 
 
 Most of my computational efforts are related to [DMRichR](https://github.com/ben-laufer/DMRichR) and [CpG_Me](https://github.com/ben-laufer/CpG_Me), which enable the analysis of low-pass whole genome bisulfite sequencing. 
 The following publications demonstrate their potential: 
