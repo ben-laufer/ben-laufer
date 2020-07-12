@@ -12,4 +12,5 @@ The following publications demonstrate their potential:
  <p align="center">
   <a href="https://twitter.com/laufer_ben"><img src="https://img.shields.io/twitter/follow/laufer_ben?style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/ben-laufer-539a496a/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://scholar.google.ca/citations?user=R8_n7dgAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-brightgreen" alt="Google Scholar"></a>
 </p>
