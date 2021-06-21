@@ -5,9 +5,11 @@ I utilize computational and experimental methods to explore the epigenomic inter
 Most of my computational efforts are related to [DMRichR](https://github.com/ben-laufer/DMRichR) and [CpG_Me](https://github.com/ben-laufer/CpG_Me), which enable the analysis of low-pass whole genome bisulfite sequencing. 
 The following publications demonstrate their potential: 
 
-1) Laufer BI, Hwang H, Jianu JM, Mordaunt CE, Korf IF, Hertz-Picciotto I, LaSalle JM. Low-Pass Whole Genome Bisulfite Sequencing of Neonatal Dried Blood Spots Identifies a Role for RUNX1 in Down Syndrome DNA Methylation Profiles. *Human Molecular Genetics*, 2020. **doi**: [10.1093/hmg/ddaa218](https://doi.org/10.1093/hmg/ddaa218) 
+1) Laufer BI,* Neier KE,* Valenzuela AE, Yasui DH, Lein PJ, LaSalle JM. Prenatal PCB exposure alters a shared neurodevelopmental DNA methylation profile in mouse placenta and fetal brain. *bioRxiv* preprint, 2021. **doi**: [10.1101/2021.05.27.446011](https://doi.org/10.1101/2021.05.27.446011) 
 
-2) Laufer BI, Hwang H, Vogel Ciernia A, Mordaunt CE, LaSalle JM. Whole genome bisulfite sequencing of Down syndrome brain reveals regional DNA hypermethylation and novel disease insights. *Epigenetics*, 2019. **doi**: [10.1080/15592294.2019.1609867](https://doi.org/10.1080/15592294.2019.1609867)
+2) Laufer BI, Hwang H, Jianu JM, Mordaunt CE, Korf IF, Hertz-Picciotto I, LaSalle JM. Low-Pass Whole Genome Bisulfite Sequencing of Neonatal Dried Blood Spots Identifies a Role for RUNX1 in Down Syndrome DNA Methylation Profiles. *Human Molecular Genetics*, 2020. **doi**: [10.1093/hmg/ddaa218](https://doi.org/10.1093/hmg/ddaa218) 
+
+3) Laufer BI, Hwang H, Vogel Ciernia A, Mordaunt CE, LaSalle JM. Whole genome bisulfite sequencing of Down syndrome brain reveals regional DNA hypermethylation and novel disease insights. *Epigenetics*, 2019. **doi**: [10.1080/15592294.2019.1609867](https://doi.org/10.1080/15592294.2019.1609867)
   
  <p align="center">
   <a href="https://twitter.com/laufer_ben"><img src="https://img.shields.io/twitter/follow/laufer_ben?style=social" alt="Twitter"></a>
