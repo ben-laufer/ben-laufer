@@ -5,13 +5,13 @@ The following publications demonstrate their potential:
 
 1) Placenta and Fetal Brain Share a Neurodevelopmental Disorder DNA Methylation Profile in a Mouse Model of Prenatal PCB Exposure. *Cell Reports*, 2022. **doi**: [10.1016/j.celrep.2022.110442](https://doi.org/10.1016/j.celrep.2022.110442) 
 
-2) Multi-omic Brain and Behavioral Correlates of Cell-free Fetal DNA Methylation in Macaque Maternal Obesity Models. *bioRxiv* preprint, 2021. **doi**: [10.1101/2021.08.27.457952](https://doi.org/10.1101/2021.08.27.457952)
+2) Placental Methylome Reveals a 22q13.33 Brain Regulatory Gene Locus Associated with Autism. *Genome Biology*, 2022. **doi**: [10.1186/s13059-022-02613-1](https://doi.org/10.1186/s13059-022-02613-1)
 
-3) Stable DNMT3L Overexpression in SH-SY5Y Neurons Recreates a Facet of the Genome-Wide Down Syndrome DNA Methylation Signature. *Epigenetics & Chromatin*, 2021. **doi**: [10.1186/s13072-021-00387-7](https://doi.org/10.1186/s13072-021-00387-7)
+3) Multi-omic Brain and Behavioral Correlates of Cell-free Fetal DNA Methylation in Macaque Maternal Obesity Models. *bioRxiv* preprint, 2021. **doi**: [10.1101/2021.08.27.457952](https://doi.org/10.1101/2021.08.27.457952)
 
-4) Low-Pass Whole Genome Bisulfite Sequencing of Neonatal Dried Blood Spots Identifies a Role for RUNX1 in Down Syndrome DNA Methylation Profiles. *Human Molecular Genetics*, 2020. **doi**: [10.1093/hmg/ddaa218](https://doi.org/10.1093/hmg/ddaa218) 
+4) Cord Blood DNA Methylome in Newborns Later Diagnosed with Autism Spectrum Disorder Reflects Early Dysregulation of Neurodevelopmental and X-linked Genes. *Genome Medicine*, 2020. **doi**: [10.1186/s13073-020-00785-8](https://doi.org/10.1186/s13073-020-00785-8)
 
-5) Whole Genome Bisulfite Sequencing of Down Syndrome Brain Reveals Regional DNA Hypermethylation and Novel Disease Insights. *Epigenetics*, 2019. **doi**: [10.1080/15592294.2019.1609867](https://doi.org/10.1080/15592294.2019.1609867)
+5) Low-Pass Whole Genome Bisulfite Sequencing of Neonatal Dried Blood Spots Identifies a Role for RUNX1 in Down Syndrome DNA Methylation Profiles. *Human Molecular Genetics*, 2020. **doi**: [10.1093/hmg/ddaa218](https://doi.org/10.1093/hmg/ddaa218)
   
  <p align="center">
   <a href="https://twitter.com/laufer_ben"><img src="https://img.shields.io/twitter/follow/laufer_ben?style=social" alt="Twitter"></a>
