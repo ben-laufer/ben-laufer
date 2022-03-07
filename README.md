@@ -3,9 +3,9 @@
 My bioinformatics research examines the interface between gene regulation and neuroscience. Most of my postdoctoral research was related to developing [DMRichR](https://github.com/ben-laufer/DMRichR) and [CpG_Me](https://github.com/ben-laufer/CpG_Me), which enable the analysis of low-pass whole genome bisulfite sequencing. 
 The following publications demonstrate their potential: 
 
-1) Multi-omic Brain and Behavioral Correlates of Cell-free Fetal DNA Methylation in Macaque Maternal Obesity Models. *bioRxiv* preprint, 2021. **doi**: [10.1101/2021.08.27.457952](https://doi.org/10.1101/2021.08.27.457952)
+1) Placenta and Fetal Brain Share a Neurodevelopmental Disorder DNA Methylation Profile in a Mouse Model of Prenatal PCB Exposure. *Cell Reports*, 2022. **doi**: [10.1016/j.celrep.2022.110442](https://doi.org/10.1016/j.celrep.2022.110442) 
 
-2) Genome-Wide DNA Methylation Profiles of Neurodevelopmental Disorder Genes in Mouse Placenta and Fetal Brain Following Prenatal Exposure to Polychlorinated Biphenyls. *bioRxiv* preprint, 2021. **doi**: [10.1101/2021.05.27.446011](https://doi.org/10.1101/2021.05.27.446011) 
+2) Multi-omic Brain and Behavioral Correlates of Cell-free Fetal DNA Methylation in Macaque Maternal Obesity Models. *bioRxiv* preprint, 2021. **doi**: [10.1101/2021.08.27.457952](https://doi.org/10.1101/2021.08.27.457952)
 
 3) Stable DNMT3L Overexpression in SH-SY5Y Neurons Recreates a Facet of the Genome-Wide Down Syndrome DNA Methylation Signature. *Epigenetics & Chromatin*, 2021. **doi**: [10.1186/s13072-021-00387-7](https://doi.org/10.1186/s13072-021-00387-7)
 
