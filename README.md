@@ -3,11 +3,11 @@
 My bioinformatics research examines the interface between gene regulation and neuroscience. Most of my postdoctoral research was related to developing [DMRichR](https://github.com/ben-laufer/DMRichR) and [CpG_Me](https://github.com/ben-laufer/CpG_Me), which enable the analysis of low-pass whole genome bisulfite sequencing. 
 The following publications demonstrate their potential: 
 
-1) Placenta and Fetal Brain Share a Neurodevelopmental Disorder DNA Methylation Profile in a Mouse Model of Prenatal PCB Exposure. *Cell Reports*, 2022. **doi**: [10.1016/j.celrep.2022.110442](https://doi.org/10.1016/j.celrep.2022.110442) 
+1) Multi-omic Brain and Behavioral Correlates of Cell-free Fetal DNA Methylation in Macaque Maternal Obesity Models. *Nature Communications*, 2021. **doi**: [10.1038/s41467-022-33162-7](https://doi.org/10.1038/s41467-022-33162-7)
 
-2) Placental Methylome Reveals a 22q13.33 Brain Regulatory Gene Locus Associated with Autism. *Genome Biology*, 2022. **doi**: [10.1186/s13059-022-02613-1](https://doi.org/10.1186/s13059-022-02613-1)
+2) Placenta and Fetal Brain Share a Neurodevelopmental Disorder DNA Methylation Profile in a Mouse Model of Prenatal PCB Exposure. *Cell Reports*, 2022. **doi**: [10.1016/j.celrep.2022.110442](https://doi.org/10.1016/j.celrep.2022.110442) 
 
-3) Multi-omic Brain and Behavioral Correlates of Cell-free Fetal DNA Methylation in Macaque Maternal Obesity Models. *bioRxiv* preprint, 2021. **doi**: [10.1101/2021.08.27.457952](https://doi.org/10.1101/2021.08.27.457952)
+3) Placental Methylome Reveals a 22q13.33 Brain Regulatory Gene Locus Associated with Autism. *Genome Biology*, 2022. **doi**: [10.1186/s13059-022-02613-1](https://doi.org/10.1186/s13059-022-02613-1)
 
 4) Cord Blood DNA Methylome in Newborns Later Diagnosed with Autism Spectrum Disorder Reflects Early Dysregulation of Neurodevelopmental and X-linked Genes. *Genome Medicine*, 2020. **doi**: [10.1186/s13073-020-00785-8](https://doi.org/10.1186/s13073-020-00785-8)
 
