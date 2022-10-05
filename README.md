@@ -3,7 +3,7 @@
 My bioinformatics research examines the interface between gene regulation and neuroscience. Most of my postdoctoral research was related to developing [DMRichR](https://github.com/ben-laufer/DMRichR) and [CpG_Me](https://github.com/ben-laufer/CpG_Me), which enable the analysis of low-pass whole genome bisulfite sequencing. 
 The following publications demonstrate their potential: 
 
-1) Multi-omic Brain and Behavioral Correlates of Cell-free Fetal DNA Methylation in Macaque Maternal Obesity Models. *Nature Communications*, 2021. **doi**: [10.1038/s41467-022-33162-7](https://doi.org/10.1038/s41467-022-33162-7)
+1) Multi-omic Brain and Behavioral Correlates of Cell-free Fetal DNA Methylation in Macaque Maternal Obesity Models. *Nature Communications*, 2022. **doi**: [10.1038/s41467-022-33162-7](https://doi.org/10.1038/s41467-022-33162-7)
 
 2) Placenta and Fetal Brain Share a Neurodevelopmental Disorder DNA Methylation Profile in a Mouse Model of Prenatal PCB Exposure. *Cell Reports*, 2022. **doi**: [10.1016/j.celrep.2022.110442](https://doi.org/10.1016/j.celrep.2022.110442) 
 
