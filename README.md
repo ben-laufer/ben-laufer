@@ -1,6 +1,12 @@
 ![Banner](https://pbs.twimg.com/profile_banners/1419589106/1589310562/1500x500)
 
-My bioinformatics research examines the interface between gene regulation and neuroscience. Most of my postdoctoral research was related to developing [DMRichR](https://github.com/ben-laufer/DMRichR) and [CpG_Me](https://github.com/ben-laufer/CpG_Me), which enable the analysis of low-pass whole genome bisulfite sequencing. 
+My bioinformatics research examines the interface between gene regulation and neuroscience. Recently, this has been assisted through developing two R/Bioconductor packages:
+
+1) [scDotPlot](https://doi.org/10.18129/B9.bioc.scDotPlot): Cluster a Single-cell RNA-seq Dot Plot
+   
+3) [gg4way](https://doi.org/10.18129/B9.bioc.gg4way): 4way Plots of Differential Expression
+
+Most of my postdoctoral research was related to developing [DMRichR](https://github.com/ben-laufer/DMRichR) and [CpG_Me](https://github.com/ben-laufer/CpG_Me), which enable the analysis of low-pass whole genome bisulfite sequencing. 
 The following publications demonstrate their potential: 
 
 1) Multi-omic Brain and Behavioral Correlates of Cell-free Fetal DNA Methylation in Macaque Maternal Obesity Models. *Nature Communications*, 2022. **doi**: [10.1038/s41467-022-33162-7](https://doi.org/10.1038/s41467-022-33162-7)
